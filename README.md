@@ -35,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/smrity-dev/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/smrity-dev/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
+## String
+|  |
+| ------- |
+| [0940-distinct-subsequences-ii](https://github.com/smrity-dev/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0940-distinct-subsequences-ii](https://github.com/smrity-dev/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 <!---LeetCode Topics End-->
