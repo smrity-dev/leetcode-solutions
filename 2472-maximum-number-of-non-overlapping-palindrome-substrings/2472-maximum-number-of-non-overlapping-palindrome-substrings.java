@@ -2,30 +2,25 @@ class Solution {
     public int maxPalindromes(String s, int k) {
         int n = s.length();
 
-        // palindrome[i][j] = true if s[i...j] is a palindrome
-        boolean[][] palindrome = new boolean[n][n];
+        boolean[][] p = new boolean[n][n];
+        int[] dp = new int[n + 1];
 
-        // Build palindrome table
+        // Palindrome check
         for (int i = n - 1; i >= 0; i--) {
             for (int j = i; j < n; j++) {
                 if (s.charAt(i) == s.charAt(j) &&
-                    (j - i <= 1 || palindrome[i + 1][j - 1])) {
-                    palindrome[i][j] = true;
+                    (j - i < 2 || p[i + 1][j - 1])) {
+                    p[i][j] = true;
                 }
             }
         }
 
-        // dp[i] = maximum number of valid palindromes
-        // using first i characters
-        int[] dp = new int[n + 1];
-
+        // DP
         for (int i = 1; i <= n; i++) {
-            // Don't select a palindrome ending at i-1
             dp[i] = dp[i - 1];
 
-            // Try every possible starting position
             for (int j = 0; j < i; j++) {
-                if (i - j >= k && palindrome[j][i - 1]) {
+                if (i - j >= k && p[j][i - 1]) {
                     dp[i] = Math.max(dp[i], dp[j] + 1);
                 }
             }
