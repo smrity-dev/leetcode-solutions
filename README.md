@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/smrity-dev/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/smrity-dev/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/smrity-dev/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/smrity-dev/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/smrity-dev/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/smrity-dev/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/smrity-dev/leetcode-solutions/tree/master/0075-sort-colors) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/smrity-dev/leetcode-solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
