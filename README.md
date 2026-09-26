@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/smrity-dev/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/smrity-dev/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/smrity-dev/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/smrity-dev/leetcode-solutions/tree/master/0136-single-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/smrity-dev/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/smrity-dev/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/smrity-dev/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/smrity-dev/leetcode-solutions/tree/master/0136-single-number) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/smrity-dev/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Breadth-First Search
 |  |
